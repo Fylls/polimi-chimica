@@ -1,10 +1,35 @@
 ----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
 
-SILICIO
+BIOSSIDO DI SILICIO
 
-Il biossido di silicio è un solido covalente cristallino (quarzo) o amorfo (vetro): tanto Si che O sono ibridizzati sp3
-e i legami Si-O sono tutti singoli in quanto gli orbitali p di Si e O hanno dimensioni troppo diverse per dare legami doppi.
+Il biossido di silicio è un solido covalente cristallino (quarzo) o amorfo (vetro):
+tanto Si che O sono ibridizzati sp3 e i legami Si-O sono tutti singoli in quanto gli
+orbitali p di Si e O hanno dimensioni troppo diverse per dare legami doppi.
+I Si hanno intorni tetraedrici e formano quattro legami sigma con atomi di O, che sono
+a loro volta legati a 2 Si (e hanno 2 lone pairs). 
 
+L'elevata energia del legame Si-0 fa si the la silice abbia temperatura di fusione
+piuttosto elevata (1710 °C) e sia chimicamente inerte (reagisce soltanto con F2,
+HF e con basi forti a caldo). 
+
+Si noti che CO2 solido (ghiaccio secco) fonde alla temperatura di -56,6°C mentre
+SiO2 fonde a 1710°C; questa grande differenza tra le temperature di fusione esprime
+il fatto che nella CO2 solida esistono molecole di CO2 singole, legate fra loro da
+modestissime forze di van der Waals, mentre nell'Si02 solido esiste un unico reticolo
+cristallino che lega atomi Si ad atomi 0 con forti legami covalenti formando un'unica
+molecola gigante (SiO2)n. 
+
+quarzo, fasci tetraedrici disposti ad elica
+
+Materia prima per la produzione di silicio elementare. La natura di semiconduttore del
+silicio ne favorisce l'utilizzo nel campo dell'ingegneria elettronica, nella
+costruzione di circuiti integrati, transistor, altri componenti elettronici.
+
+Inadatta come conduttore di calore viene utilizzata in materiali ceramici come isolante.
+Un esempio ne è lo scudo termico delle sonde spaziali o dello space shuttle.
+
+----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
 
 BENZENE
@@ -15,6 +40,7 @@ risultano facilmente polarizzabili (perchè estese). Nonostante l'apolarità int
 esistono forze di London piuttosto intense.
 
 ----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
 
 GRAFITE
 
@@ -24,4 +50,84 @@ grazie agli elettroni π delocalizzati.
 La grafite è un solido covalente in due dimensioni mentre è tenuto insieme da forze più deboli lungo la terza. 
 La grafite ha anche applicazioni come lubrificante solido
 
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+DIAMANTE
+
+Il diamante è una delle tante forme allotropiche in cui può presentarsi il carbonio
+
+Il C(diamante) è un solido covalente che ha una struttura in cui tutti i C sono ibridizzati
+sp3 e formano 4 legami C-C σ singoli.
+Gli elettroni di valenza di dei C sono quindi tutti localizzati nei legami σ e quindi
+hanno una mobilità molto contenuta e vincolata.
+Si ha quindi un reticolo tridimensionale molto rigido in cui è possibile riconoscere dei
+cicli a 6 atomi
+Questo reticolo trasmette invece le vibrazioni termiche degli atomi in modo molto efficiente
+ed è quindi un ottimo conduttore di calore.
+
+tuttavia, al pari del silicio, può essere trasformato in un semiconduttore usando tracce di
+impurità di boro o di azoto.
+
+soprattutto con azoto negli ultimi anni si è focalizzata la ricerca nello sviluppo di
+computer quantici
+
+l'alto indice di rifrazione permette al diamante di scomporre la luce dei suoi componenti
+
+chimicaente inerte, resiste agli acidi,
+massima durezza in scala mohs, diamante usato in applicazioni industriali per
+lavorazioni di precisione
+
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+
+CONFRONTO DIAMANTE E GRAFITE
+
+Tanto C(grafite) che C(diamante) sono solidi covalenti.
+Il C(diamante) è un solido che ha una struttura in cui tutti i C sono ibridizzati
+sp3 e formano 4 legami C-C σ singoli.
+Gli elettroni di valenza di dei C sono quindi tutti localizzati nei legami σ e quindi
+hanno una mobilità molto contenuta e vincolata.
+Si ha quindi un reticolo tridimensionale molto rigido in cui è possibile riconoscere dei
+cicli a 6 atomi
+Questo reticolo trasmette invece le vibrazioni termiche degli atomi in modo molto efficiente
+ed è quindi un ottimo conduttore di calore.
+
+C(grafite) è costituito da strati planari di carboni ibridizzati sp2 legati tra loro a formare
+esagoni regolari con uno scheletro di legami σ mentre il quarto elettrone di valenza di
+ciascun carbonio entra in orbitali di legame π delocalizzati, estesi di fatto ad un intero
+piano costituente.
+Per questa ragione almeno alcuni degli elettroni di valenza dei C hanno una mobilità molto più
+elevata e la grafite conduce abbastanza bene almeno in alcune direzioni.
+La mobilità di questi elettroni la rende anche un buon conduttore termico.
+Gli strati monoatomici di carboni sp2 si combinano impilandosi l’uno sull’altro con interazioni
+relativamente deboli tramite forze dispersive. 
+
+l diamante è un cristallo trasparente composto da atomi di carbonio a struttura tetraedrica.
+È la forma termodinamicamente instabile del carbonio che, in teoria, per la seconda legge
+della termodinamica, dovrebbe trasformarsi interamente in grafite. Ciò non avviene perché
+c'è bisogno di una traslazione degli atomi di carbonio che, essendo legati gli uni agli
+altri in una struttura a tetraedro, è impedita cineticamente. Quindi il diamante è
+instabile dal punto di vista termodinamico ma stabile dal punto di vista cinetico.
+In altre parole, è un materiale metastabile.
+
+solido covalente
+La grafite è costituita da reticoli esagonali 2D costituiti da carboni sp2
+Questi strati monoatomici si combinano impilandosi l’uno sull’altro e formando
+interazioni tramite forze dispersive grazie agli elettroni π delocalizzati.
+La grafite è un solido covalente in duedimensioni mentre è tenuto insieme da
+forze più deboli lungo la terza.
+
+C(grafite) è costituito da strati planari di carboni ibridizzati sp2 legati tra loro a formare
+esagoni regolari con uno scheletro di legami σ mentre il quarto elettrone di valenza di
+ciascun carbonio entra in orbitali di legame π delocalizzati, estesi di fatto ad un intero
+piano costituente.
+Per questa ragione almeno alcuni degli elettroni di valenza dei C hanno una mobilità molto più
+elevata e la grafite conduce abbastanza bene almeno in alcune direzioni.
+La mobilità di questi elettroni la rende anche un buon conduttore termico.
+Gli strati monoatomici di carboni sp2 si combinano impilandosi l’uno sull’altro con interazioni
+relativamente deboli tramite forze dispersive. 
+
+----------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
