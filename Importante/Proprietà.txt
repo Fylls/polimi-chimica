@@ -1,11 +1,46 @@
 ----------------------------------------------------------------------------------------------------------------------------------
+AFFINITÀ ELETTRONICA
+
+L'affinità elettronica dell’atomo è l'energia liberata o spesa da un atomo o molecola quando
+un elettrone viene aggiunto a un atomo o molecola in stato neutro isolato in forma gassosa,
+per formare uno ione negativo
+
+----------------------------------------------------------------------------------------------------------------------------------
 
 ENERGIA RETICOLARE
 
-energia che si libera nel passaggio da ioni isolati in fase gas a quella
+L'energia reticolare di un cristallo ionico è l'energia che si libera quando ioni positivi
+(cationi) e ioni negativi (anioni), partendo da distanza infinita l'uno dall'altro,
+cioè in assenza di interazioni, si uniscono per formare una mole del cristallo.
+
+Energia che si libera nel passaggio da ioni isolati in fase gas a quella
 cristallina per mole del composto ionico
 
 E α (Q1 Q2)/R
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+ENERGIA DI IONIZZAZIOINE
+
+L'energia di ionizzazione di un atomo o di una molecola è l'energia minima richiesta per
+allontanare un elettrone e portarlo a distanza infinita, allo zero assoluto, e in
+condizioni di energia cinetica nulla. Quindi l'energia necessaria per far avvenire il seguente processo: 
+
+X → X⁺ + e⁻ (g)
+
+è l’energia che bisogna fornire ad un atomo neutro (isolato e in fase gassosa)
+per sottrargli un eportandolo a distanza infinita
+
+E’ sempre positivo e grande perché si tratta di un processo di separazione di due cariche di segno opposto
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+ELETTRONEGATIVTÀ
+
+L'elettronegatività, simbolo χ, è una proprietà chimica che descrive la tendenza di un atomo
+ad attrarre verso di sè elettroni condivisi. Al livello più elementare, l'elettronegatività
+è determinata da fattori come la carica nucleare e il numero e posizione degli altri
+elettroni presenti nei vari orbitali atomici.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
@@ -22,17 +57,6 @@ L’aumento forte della Zeff lungo un dato periodo (ad esempio da 1.3 a 5.85 nel
 importante delle dimensioni atomiche nonostante l’aumento del numero atomico Z. Invece l’aumento di Zeff scendendo lungo i
 gruppi, risultante dal fatto che la schermatura da parte degli elettroni interni è elevata ma comunque incompleta, comporta un
 aumento delle dimensioni atomiche risultante dall’aumento della repulsione tra gli elettroni.
-
-----------------------------------------------------------------------------------------------------------------------------------
-
-POTENZIALE DI IONIZAZIONE
-
-è l’energia che bisogna fornire ad un atomo neutro (isolato e in fase gassosa)
-per sottrargli un eportandolo a distanza infinita
-
-A(g) → A+(g) + e−(g)
-
-E’ sempre positivo e grande perché si tratta di un processo di separazione di due cariche di segno opposto
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
