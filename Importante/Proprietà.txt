@@ -1,0 +1,44 @@
+----------------------------------------------------------------------------------------------------------------------------------
+
+ENERGIA RETICOLARE
+
+energia che si libera nel passaggio da ioni isolati in fase gas a quella
+cristallina per mole del composto ionico
+
+E α (Q1 Q2)/R
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+CARICA NUCLEARE EFFICACE Z*
+
+è la carica nucleare positiva a cui l’elettrone di valenza più esterno ( a energia più elevata) è effettivamente soggetto,
+tenuto conto dell’effetto di schermo dovuto alla della presenza degli altri elettroni
+
+la carica nucleare efficace (Zeff o Z*) per un dato atomo è la carica nucleare a cui
+l‘elettrone di valenza meno stabile del particolare atomo è effettivamente soggetto, tenuto conto del fatto che 
+il nucleo è schermato dalla presenza di altri elettroni
+
+L’aumento forte della Zeff lungo un dato periodo (ad esempio da 1.3 a 5.85 nel secondo periodo) determina una contrazione
+importante delle dimensioni atomiche nonostante l’aumento del numero atomico Z. Invece l’aumento di Zeff scendendo lungo i
+gruppi, risultante dal fatto che la schermatura da parte degli elettroni interni è elevata ma comunque incompleta, comporta un
+aumento delle dimensioni atomiche risultante dall’aumento della repulsione tra gli elettroni.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+POTENZIALE DI IONIZAZIONE
+
+è l’energia che bisogna fornire ad un atomo neutro (isolato e in fase gassosa)
+per sottrargli un eportandolo a distanza infinita
+
+A(g) → A+(g) + e−(g)
+
+E’ sempre positivo e grande perché si tratta di un processo di separazione di due cariche di segno opposto
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+TEMPERATURA CRITICA
+
+) La temperatura critica di un gas Tc è la temperatura sopra alla quale non è possibile liquefare il gas per compressione,
+in quanto l’energia delle interazioni intermolecolari è inferiore rispetto all’energia cinetica media delle molecole
+
+----------------------------------------------------------------------------------------------------------------------------------
