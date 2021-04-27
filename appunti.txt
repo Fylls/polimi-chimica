@@ -1,0 +1,74 @@
+L’energia reticolare è l’energia che si libera nel passaggio da ioni isolati in fase gas a quella
+cristallina per mole del composto ionico
+
+E α (Q1 Q2)/R
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+La carica nucleare efficace Z* è la carica nucleare positiva a cui l’elettrone di valenza più esterno ( a
+energia più elevata) è effettivamente soggetto, tenuto conto dell’effetto di schermo dovuto alla della presenza degli altri
+elettroni
+
+ la carica nucleare efficace (Zeff o Z*) per un dato atomo è la carica nucleare a cui
+l‘elettrone di valenza meno stabile del particolare atomo è effettivamente soggetto, tenuto conto del fatto che il nucleo è schermato
+dalla presenza di altri elettroni
+
+L’aumento forte della Zeff lungo un dato periodo (ad esempio da 1.3 a 5.85 nel secondo periodo) determina una contrazione
+importante delle dimensioni atomiche nonostante l’aumento del numero atomico Z. Invece l’aumento di Zeff scendendo lungo i
+gruppi, risultante dal fatto che la schermatura da parte degli elettroni interni è elevata ma comunque incompleta, comporta un
+aumento delle dimensioni atomiche risultante dall’aumento della repulsione tra gli elettroni.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+Il potenziale di ionizzazione è l’energia che bisogna fornire ad un atomo neutro (isolato-gassoso) per sottrargli un eportandolo a distanza
+infinita
+
+X(g) + PI → X+ + e-
+
+E’ sempre positivo e grande perché si tratta di un processo di
+separazione di due cariche di segno opposto
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+L’energia di ionizzazione è l’energia necessaria ad allontanare un elettrone da un atomo in fase gassosa:
+A(g) → A+(g) + e−(g)
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+TEMPERATURA CRITICA
+) La temperatura critica di un gas Tc è la temperatura sopra alla quale non è possibile liquefare il gas per compressione,
+in quanto l’energia delle interazioni intermolecolari è inferiore rispetto all’energia cinetica media delle molecole
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+ENERGIA LEGAME VB
+
+ L’energia di legame è l’energia necessaria per spezzare un certo legame tra due atomi (quindi in generale
+di tipo covalente). Sarà in generale tanto più grande quanto più efficiente è la sovrapposizione degli orbitali atomici che
+formano il legame e quanto più polare è il legame, per via del contributo di forme di risonanza ioniche.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+ sovrapposizione di tipo σ (a simmetria cilindrica lungo l’asse internucleare) 
+
+----------------------------------------------------------------------------------------------------------------------------------
+SILICIO
+
+Il biossido di silicio è un solido covalente cristallino (quarzo) o amorfo (vetro): tanto Si che O sono ibridizzati sp3
+e i legami Si-O sono tutti singoli in quanto gli orbitali p di Si e O hanno dimensioni troppo diverse per dare legami doppi.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+BENZENE
+
+ Il benzene è una molecola organica apolare che presenta tre doppi legami coniugati (aromatico).
+La coniugazione dà luogo nuvole di elettroni π, delocalizzate sopra e sotto il piano dell'anello che
+risultano facilmente polarizzabili (perchè estese). Nonostante l'apolarità intrinseca della molecola,
+esistono forze di London piuttosto intense.
+
+----------------------------------------------------------------------------------------------------------------------------------
+GRAFITE
+
+La grafite è costituita da reticoli esagonali 2D costituiti da carboni sp2
+Questi strati monoatomici si combinano impilandosi l’uno sull’altro e formando interazioni tramite forze dispersive grazie agli elettroni π delocalizzati.
+La grafite è un solido covalente in due dimensioni mentre è tenuto insieme da forze più deboli lungo la terza. 
